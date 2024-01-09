@@ -5,6 +5,7 @@
 * [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 * [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 * [초보를 위한 정보이론 안내서 - KL divergence 쉽게 보기](https://hyunw.kim/blog/2017/10/27/KL_divergence.html)
+* [초보를 위한 정보이론 안내서 - Entropy란 무엇일까](https://hyunw.kim/blog/2017/10/14/Entropy.html)
 * [KL Divergence between 2 Gaussian Distributions](https://mr-easy.github.io/2020-04-16-kl-divergence-between-2-gaussian-distributions/)
 * [https://github.com/Jackson-Kang/Pytorch-VAE-tutorial.git](https://github.com/Jackson-Kang/Pytorch-VAE-tutorial.git)
 * [Gibbs' inequality](https://en.wikipedia.org/wiki/Gibbs%27_inequality#Proof)
