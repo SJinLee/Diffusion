@@ -7,3 +7,4 @@
 * [초보를 위한 정보이론 안내서 - KL divergence 쉽게 보기](https://hyunw.kim/blog/2017/10/27/KL_divergence.html)
 * [KL Divergence between 2 Gaussian Distributions](https://mr-easy.github.io/2020-04-16-kl-divergence-between-2-gaussian-distributions/)
 * [https://github.com/Jackson-Kang/Pytorch-VAE-tutorial.git](https://github.com/Jackson-Kang/Pytorch-VAE-tutorial.git)
+* [Gibbs' inequality](https://en.wikipedia.org/wiki/Gibbs%27_inequality#Proof)
