@@ -11,3 +11,4 @@
 * [Gibbs' inequality](https://en.wikipedia.org/wiki/Gibbs%27_inequality#Proof)
 * [Denoising autoencoders with Keras, TensorFlow, and Deep Learning](https://pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/)
 * [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf)
+* [https://lumiere-video.github.io/](https://lumiere-video.github.io/)
