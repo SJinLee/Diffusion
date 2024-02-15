@@ -13,3 +13,4 @@
 * [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf)
 * [https://github.com/huggingface/diffusers](https://github.com/huggingface/diffusers)
 * [https://lumiere-video.github.io/](https://lumiere-video.github.io/)
+* [https://github.com/aju22/DDPM](https://github.com/aju22/DDPM)
